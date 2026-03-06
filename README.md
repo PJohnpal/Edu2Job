@@ -181,12 +181,7 @@ The production build will be in `frontend/dist/`
 - Track application status
 - Manage personal profile with resume, skills, education, etc.
 
-### Admin Features
-- View platform statistics
-- Manage all job listings
-- View all applications
-- Manage user accounts
-- Create and delete jobs
+
 
 ## Database Models
 
