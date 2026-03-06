@@ -111,13 +111,6 @@ npm run dev
 
 The frontend will start on `http://localhost:5173` (or another port if 5173 is busy)
 
-## Default Admin Account
-
-The application creates a default admin account on first run:
-
-- **Email:** pjohnpal2004@gmail.com
-- **Password:** john1234
-
 ## API Endpoints
 
 ### Authentication
